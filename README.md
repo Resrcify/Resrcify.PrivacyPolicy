@@ -46,7 +46,6 @@
 <h3>Types of Data Collected</h3>
 <h4>Personal Data</h4>
 <p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information will not be stored or transferred</p>
-ive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
 <h2>Children's Privacy</h2>
 <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
 <p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
